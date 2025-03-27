@@ -1,0 +1,10 @@
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonLibrary\obj\Debug\SingletonLibrary.csprojResolveAssemblyReference.cache
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonLibrary\bin\Debug\SingletonLibrary.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonLibrary\bin\Debug\SingletonLibrary.pdb
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonLibrary\obj\Debug\SingletonLibrary.dll
+D:\360ExtremeBrowserDownload\AbstractInterfaceJavaCSharp-main\CSharp\SingletonCSharp\SingletonLibrary\obj\Debug\SingletonLibrary.pdb
+C:\Users\Admin\Desktop\AbstractInterfaceJavaCSharp\CSharp\SingletonCSharp\SingletonLibrary\bin\Debug\SingletonLibrary.dll
+C:\Users\Admin\Desktop\AbstractInterfaceJavaCSharp\CSharp\SingletonCSharp\SingletonLibrary\bin\Debug\SingletonLibrary.pdb
+C:\Users\Admin\Desktop\AbstractInterfaceJavaCSharp\CSharp\SingletonCSharp\SingletonLibrary\obj\Debug\SingletonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\AbstractInterfaceJavaCSharp\CSharp\SingletonCSharp\SingletonLibrary\obj\Debug\SingletonLibrary.dll
+C:\Users\Admin\Desktop\AbstractInterfaceJavaCSharp\CSharp\SingletonCSharp\SingletonLibrary\obj\Debug\SingletonLibrary.pdb
