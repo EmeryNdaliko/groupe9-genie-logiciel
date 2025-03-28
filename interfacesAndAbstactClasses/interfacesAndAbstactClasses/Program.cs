@@ -90,8 +90,8 @@ namespace interfacesAndAbstactClasses
                     }
                     if(choix_class == 1)
                     {
-                        Motorcycle m1 = new Motorcycle("kj56", "TVS", "Red", "4537788egte");
-                        Cars c1 = new Cars("kj56", "TVS", "Red", "u885ufjfnfnf");
+                        Motorcycle m1 = new Motorcycle("HONDA", "TVS", "Red", "4537788egte");
+                        Cars c1 = new Cars("BULMI", "TVS", "Red", "u885ufjfnfnf");
                         m1.Add(choix_db);
                         c1.Add(choix_db);
                         m1.showDetails(choix_db, 2);
