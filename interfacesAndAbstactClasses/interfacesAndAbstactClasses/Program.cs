@@ -118,21 +118,19 @@ namespace interfacesAndAbstactClasses
                     {
                         Console.WriteLine("choix Invalide!!!!");
                     }
-                    if (choix_class == 1)
-                    {
-                        Motorcycle m1 = new Motorcycle("kj56", "TVS", "Red", "4537788egte");
+                 if(choix_class == 1)  {  
+                    Motorcycle m1 = new Motorcycle("kj56", "TVS", "Red", "4537788egte");
                         Cars c1 = new Cars("kj56", "TVS", "Red", "u885ufjfnfnf");
                         m1.Add(choix_db);
                         c1.Add(choix_db);
-                    }
+                        }
 
-                    if (choix_class == 2)
-                    {
-                        Interface.Motorcycle m2 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
+                if (choix_class == 2){ Interface.Motorcycle m2 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
                         Interface.Cars c2 = new Interface.Cars("fgt34", "WOLVSWAGGEN", "Metal", "oo9ieiie");
                         m2.Add(choix_db);
                         c2.Add(choix_db);
-                    }
+                        }
+                   
 
                 }
 
