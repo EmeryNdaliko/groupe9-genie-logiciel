@@ -16,27 +16,7 @@ namespace interfacesAndAbstactClasses
     {   
         static void Main(string[] args)
         {
-            //Console.WriteLine("==========================");
-            //Console.WriteLine("FOR THE ABSTACT CLASS");
-            //Console.WriteLine("==========================");
-
-            //Motorcycle tvs = new Motorcycle("kj56", "TVS", "Red", "4537788egte");
-            //Cars bmw = new Cars("kj56", "TVS", "Red", 5674899);
-
-            //tvs.showDetails();
-            //bmw.showDetails();
-
-
-            //Console.WriteLine("==========================");
-            //Console.WriteLine("FOR THE INTERFACE CLASS");
-            //Console.WriteLine("==========================");
-
-
-            //Interface.Motorcycle hau = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
-            //Interface.Cars volv = new Interface.Cars("fgt34", "WOLVSWAGGEN", "Metal", 5674899);
-
-            //hau.showDetails();
-            //volv.showDetails();
+        
             String rep = "";
             int choix_db,choix_class;
             do
@@ -93,7 +73,7 @@ namespace interfacesAndAbstactClasses
                     }
                     if (choix_class == 1)
                     {
-                        Motorcycle m1 = new Motorcycle("kj56", "TVS", "Red", "4537788egte");
+                        Motorcycle m1 = new Motorcycle("Yamaya", "TVS", "Red", "4537788egte");
                         Cars c1 = new Cars("kj56", "TVS", "Red", "u885ufjfnfnf");
                         m1.Add(choix_db);
                         c1.Add(choix_db);
