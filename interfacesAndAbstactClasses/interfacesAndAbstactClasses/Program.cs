@@ -14,33 +14,6 @@ namespace interfacesAndAbstactClasses
 {
     class Program
     {   
-        abstract class Animals
-        {
-            public abstract void walk(String name);
-
-            public void eat()
-            {
-                Console.WriteLine("I can eat");
-            }
-        }
-
-        class Tiger : Animals
-        {
-            public override void walk(String name)
-            {
-                Console.WriteLine("Ama "+name+" and I walk with 4 legs");
-            }
-        }
-
-        class Chikken : Animals
-        {
-            public override void walk(String name)
-            {
-                Console.WriteLine("Ama " + name + " and I walk with 2 legs");   
-            }
-        }
-
-        
         static void Main(string[] args)
         {
             //Console.WriteLine("==========================");
