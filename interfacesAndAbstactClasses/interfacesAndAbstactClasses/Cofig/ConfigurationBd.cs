@@ -13,7 +13,7 @@ namespace interfacesAndAbstactClasses.Cofig
 
         public SqlConnection GetSqlConnection()
         {
-            return new SqlConnection("Data source=DESKTOP-1PQ7N3N;Initial catalog=db_vehicule;User=sa;Password=20032020@");
+            return new SqlConnection("Data source=JAMES-MAT;Initial catalog=db_vehicule;User=sa;Password=james");
         }
 
         public MySqlConnection GetMySqlConnection()
