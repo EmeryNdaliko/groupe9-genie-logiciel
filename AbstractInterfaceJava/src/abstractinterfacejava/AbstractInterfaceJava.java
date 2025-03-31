@@ -7,7 +7,7 @@ package abstractinterfacejava;
 
 /**
  *
- * @author SAM NDABO
+ * @author jonas po
  */
 public class AbstractInterfaceJava {
 
