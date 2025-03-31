@@ -81,7 +81,7 @@ namespace interfacesAndAbstactClasses
 
                     if (choix_class == 2)
                     {
-                        Interface.Motorcycle m2 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
+                        Interface.Motorcycle m2 = new Interface.Motorcycle("Honda", "yamaha", "Red", "4537788egte");
                         Interface.Cars c2 = new Interface.Cars("fgt34", "WOLVSWAGGEN", "Metal", "oo9ieiie");
                         m2.Add(choix_db);
                         c2.Add(choix_db);
@@ -95,7 +95,7 @@ namespace interfacesAndAbstactClasses
             } while ((rep == "Y" || rep == "y") && (rep != "N" || rep != "n"));
 
 
-            //Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
