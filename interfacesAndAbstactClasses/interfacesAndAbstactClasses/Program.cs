@@ -56,11 +56,11 @@ namespace interfacesAndAbstactClasses
                         c2.Add(choix_db);
                         m3.Add(choix_db);
                         c3.Add(choix_db);
-                        m1.showDetails(choix_db, 2);
-                        c1.showDetails(choix_db, 3);
+                        m1.showDetails(choix_db, 1);
+                        c1.showDetails(choix_db, 1);
                         m2.showDetails(choix_db, 2);
-                        c2.showDetails(choix_db, 3);
-                        m3.showDetails(choix_db, 2);
+                        c2.showDetails(choix_db, 2);
+                        m3.showDetails(choix_db, 3);
                         c3.showDetails(choix_db, 3);
                     }
 
