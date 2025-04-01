@@ -98,10 +98,26 @@ namespace interfacesAndAbstactClasses
                     }
                     if (choix_class == 1)
                     {
-                        Motorcycle m1 = new Motorcycle("Yamaya", "TVS", "Red", "4537788egte");
-                        Cars c1 = new Cars("kj56", "TVS", "Red", "u885ufjfnfnf");
+                        Motorcycle m1 = new Motorcycle("HONDA", "TVS", "Red", "4537788egte");
+                        Cars c1 = new Cars("BULMI", "TVS", "Red", "u885ufjfnfnf");
+                        Motorcycle m2 = new Motorcycle("HAUJUE", "TVS", "Red", "4537788egte");
+                        Cars c2 = new Cars("bUGATI", "AUDI", "Red", "u885ufjfnfnf");
+                        Motorcycle m3 = new Motorcycle("GLG", "GT", "Red", "4537788egte");
+                        Cars c3 = new Cars("BUGATI", "TOYOTA", "Red", "u885ufjfnfnf");
+                        Motorcycle m4 = new Motorcycle("HAUJUE", "TVS", "Red", "4537788egte");
+                        Cars c4 = new Cars("bUGATI", "AUDI", "Red", "u885ufjfnfnf");
                         m1.Add(choix_db);
                         c1.Add(choix_db);
+                        m2.Add(choix_db);
+                        c2.Add(choix_db);
+                        m3.Add(choix_db);
+                        c3.Add(choix_db);
+                        m1.showDetails(choix_db, 1);
+                        c1.showDetails(choix_db, 1);
+                        m2.showDetails(choix_db, 2);
+                        c2.showDetails(choix_db, 2);
+                        m3.showDetails(choix_db, 3);
+                        c3.showDetails(choix_db, 3);
                     }
 
                     if (choix_class == 2)
