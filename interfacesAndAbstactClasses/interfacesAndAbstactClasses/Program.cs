@@ -66,12 +66,24 @@ namespace interfacesAndAbstactClasses
 
                     if (choix_class == 2)
                     {
+                        Interface.Motorcycle m1 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
+                        Interface.Cars c1 = new Interface.Cars("fgt34", "WOLVSWAGGEN", "Metal", "oo9ieiie");
                         Interface.Motorcycle m2 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
                         Interface.Cars c2 = new Interface.Cars("fgt34", "WOLVSWAGGEN", "Metal", "oo9ieiie");
+                        Interface.Motorcycle m3 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
+                        Interface.Cars c3 = new Interface.Cars("fgt34", "WOLVSWAGGEN", "Metal", "oo9ieiie");
+                        m1.Add(choix_db);
+                        c1.Add(choix_db);
                         m2.Add(choix_db);
                         c2.Add(choix_db);
-                        m2.showDetails(choix_db, 3);
-                        c2.showDetails(choix_db, 4);
+                        m3.Add(choix_db);
+                        c3.Add(choix_db);
+                        m1.showDetails(choix_db, 1);
+                        c1.showDetails(choix_db, 1);
+                        m2.showDetails(choix_db, 2);
+                        c2.showDetails(choix_db, 2);
+                        m3.showDetails(choix_db, 3);
+                        c3.showDetails(choix_db, 3);
                     }
                 }
                 
