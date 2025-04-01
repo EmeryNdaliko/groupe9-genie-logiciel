@@ -66,6 +66,7 @@ namespace interfacesAndAbstactClasses
 
                     if (choix_class == 2)
                     {
+
                         Interface.Motorcycle m4 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
                         Interface.Cars c4 = new Interface.Cars("fgt34", "WOLVSWAGGEN", "Metal", "oo9ieiie");
                         Interface.Motorcycle m5 = new Interface.Motorcycle("UJ898", "HAUJIN", "Red", "4537788egte");
@@ -84,6 +85,7 @@ namespace interfacesAndAbstactClasses
                         c5.showDetails(choix_db, 5);
                         m6.showDetails(choix_db, 6);
                         c6.showDetails(choix_db, 6);
+
                     }
                 }
                 
